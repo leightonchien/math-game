@@ -9,7 +9,7 @@ Both players start with 3 lives. They lose a life if they mis-answer a question.
 The game doesn’t end until one of the players loses all their lives. At this point, the game should announce who won and what the other player’s score is.
 
 ## Command Line:
-!['cli-example-prompt-math-game-ruby'](https://github.com/leightonchien/math-game)
+!['cli-example-prompt-math-game-ruby'](https://github.com/leightonchien/math-game/blob/main/example-prompt.png)
 
 ### Points Considered While Buidling the Game
   * Nouns extraction for Classes
